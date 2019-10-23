@@ -75,6 +75,7 @@ process:
     plugin: static_map
     source: mimetype
     map:
+      text/html: shtml
       text/xml: xml
       application/xml: xml
       application/rdf+xml: xml
